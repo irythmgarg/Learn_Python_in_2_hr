@@ -27,9 +27,11 @@ Scikit-learn: A powerful library for traditional ML algorithms like regression, 
 TensorFlow and PyTorch: Widely used for building and training deep neural networks.
 Keras: A user-friendly high-level API for neural networks, running on top of TensorFlow.
 Matplotlib and Seaborn: For data visualization to understand trends and patterns.
+
 2. Ease of Use and Readability
 Python’s simple syntax makes it easy to write, read, and debug code, allowing researchers and developers to focus on solving ML and DL problems instead of worrying about the language's complexities.
-3. Large Community Support
+
+4. Large Community Support
 Python has a vast and active community of developers and researchers, offering extensive support through forums, tutorials, and open-source projects. This ensures continuous innovation and the availability of resources for problem-solving.
-4. Platform Independence
+5. Platform Independence
 Python is platform-independent, meaning code can run seamlessly across Windows, macOS, and Linux environments, which is crucial for collaborative ML/DL projects.
